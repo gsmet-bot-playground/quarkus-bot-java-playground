@@ -8,6 +8,8 @@ projects:
   rules:
     - labels: [area/hibernate-validator]
       project: 1
+      issues: true
+      pullRequests: true
 triage:
   discussions:
     monitoredCategories: [33522033]
