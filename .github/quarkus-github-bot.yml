@@ -10,7 +10,6 @@ projects:
       project: 1
       issues: true
       pullRequests: true
-      status: Todo
 triage:
   discussions:
     monitoredCategories: [33522033]
