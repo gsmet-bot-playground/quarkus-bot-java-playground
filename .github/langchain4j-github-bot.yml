@@ -7,7 +7,7 @@ triage:
     - id: azure
       labels: [Azure]
       title: "azure"
-      notify: [gsmet]
+      notify: [gsmet,langchain4j]
       notifyInPullRequest: true
       files:
         - '*-azure-*/**'
